@@ -19,9 +19,7 @@
 🛠 Tech Stack
 
 Languages and Tools:
-bootstrap c html5 javascript mysql postman python react visual studio emacs vim
-
-
+bootstrap c html5 javascript mysql postman python react visual studio emacs vim arduino babel bootstrap c css3 express firebase git heroku html5 javascript linux materialize mongodb nodejs postman python react sass tailwind
 - 🔧   Emacs | VIM | Visual Studio Code
 
 
